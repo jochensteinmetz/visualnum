@@ -8,3 +8,4 @@ print(np_list)
 
 data=pd.read_csv("csv/input.csv")
 print(data)
+print(data[["Typ1"]])
