@@ -6,5 +6,5 @@ print(np_list)
 np_list=np_list+5
 print(np_list)
 
-data=pd.read.csv("csv/input.csv")
+data=pd.read_csv("csv/input.csv")
 print(data)
